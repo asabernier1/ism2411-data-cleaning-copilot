@@ -1,0 +1,10 @@
+# Reflection
+
+## What Copilot generated
+GitHub Copilot helped generate parts of my Python functions, especially for loading the dataset and cleaning column names. I used comments to guide Copilot by describing what each function should do before writing the code.
+
+## What I modified
+I changed several parts of Copilot’s output. For example, I updated variable names to match my dataset (such as using "qty" instead of "quantity"). I also improved the text cleaning logic to handle extra spaces and inconsistent formatting in product names and categories.
+
+## What I learned
+This assignment helped me understand how important data cleaning is before analysis. I learned how to use pandas to clean messy datasets efficiently. I also learned that GitHub Copilot is helpful for generating initial code, but it still requires human review and adjustments to ensure accuracy and correctness.
